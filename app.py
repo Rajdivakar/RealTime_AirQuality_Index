@@ -2,8 +2,6 @@ import streamlit as st
 import requests
 import plotly.graph_objects as go
 import time
-
-# API details
 API_KEY = '7fc48822b7a5336d09b725b685e01c9d'
 WEATHER_API_KEY = 'ef9b13a44c000c096e28c7b84f91436d' 
 GEOCODING_URL = 'http://api.openweathermap.org/geo/1.0/direct'
